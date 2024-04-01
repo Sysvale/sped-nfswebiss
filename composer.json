@@ -7,26 +7,17 @@
     "sped",
     "nfephp"
   ],
-  "homepage": "https://github.com/Focus599Dev/sped-nfswebiss",
   "license": [
     "LGPL-3.0-or-later",
     "GPL-3.0-or-later",
     "MIT"
-  ],
-  "authors": [
-    {
-      "name": "Marlon Oliveira Barbosa",
-      "email": "marlon.academi@gmail.com",
-      "homepage": "https://github.com/Focus599Dev/sped-nfswebiss",
-      "role": "Developer"
-    }
   ],
   "require": {
     "php": ">= 7.0",
     "nfephp-org/sped-common": "^5.0",
     "justinrainbow/json-schema": "^5.2",
     "mpdf/mpdf": "v8.0.0|v8.0.13",
-    "chillerlan/php-qrcode": "dev-main"
+    "chillerlan/php-qrcode": "5.0.2"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^2.8",
